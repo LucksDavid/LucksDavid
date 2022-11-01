@@ -6,8 +6,7 @@
  
  > Optimism, pessimism, whatever, we'll make it happen。 
  **——Musk**
-:::
- 
+
 <!--
 **LucksDavid/LucksDavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
